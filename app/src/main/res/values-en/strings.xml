@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Masker</string>
+    <string name="subtitle">Tinnitus masker sound generator with 8 adjustable frequency bands</string>
+    <string name="bands_title">Noise Frequency Bands</string>
+    <string name="master_volume">Master Volume</string>
+    <string name="per_ear_title">Per-Ear Volume</string>
+    <string name="left_ear">Left Ear</string>
+    <string name="right_ear">Right Ear</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="save_sound">Save Sound</string>
+    <string name="open_schedule">Playback Schedule</string>
+
+    <string name="schedule_title">Playback Schedule</string>
+    <string name="schedule_edit_title">Edit Schedule</string>
+    <string name="add_schedule">Add New Schedule</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="days_of_week">Active Days</string>
+    <string name="schedule_label">Label (optional)</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="day_sat">Sat</string>
+    <string name="day_sun">Sun</string>
+    <string name="day_mon">Mon</string>
+    <string name="day_tue">Tue</string>
+    <string name="day_wed">Wed</string>
+    <string name="day_thu">Thu</string>
+    <string name="day_fri">Fri</string>
+
+    <string name="save_duration_title">Select duration of the saved file</string>
+    <string name="save_success">Sound file saved successfully</string>
+    <string name="save_failed">Failed to save sound file</string>
+    <string name="saving_in_progress">Generating sound file…</string>
+
+    <string name="notification_channel_name">Masker Playback</string>
+    <string name="notification_title">Masker is playing</string>
+    <string name="notification_text">Tap to stop</string>
+
+    <string name="schedule_empty">No schedules yet</string>
+</resources>
